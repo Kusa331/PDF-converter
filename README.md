@@ -1,1 +1,1 @@
-Python and Html hehe
+This is a system that enables the user to upload DOCX or DOC files, converts the uploaded file into PDF format, and downloads the outputted PDF. The application will be built using Flask (Python) for the backend and HTML, CSS (Bootstrap), and JavaScript for the frontend.
